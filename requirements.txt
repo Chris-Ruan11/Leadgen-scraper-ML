@@ -1,0 +1,7 @@
+pandas
+requests
+beautifulsoup4
+lxml  # For HTML parsing
+geopy  # For geocoding HQ
+selenium  # For dynamic scraping (if needed later)
+webdriver-manager  # To manage Selenium drivers
